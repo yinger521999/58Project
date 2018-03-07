@@ -1,0 +1,2 @@
+# 58Project
+用python的requests库和BeautifulSoup库爬取了58同城上二手物品的相关信息，并用charts库画出了数据图表，进行了简要的分析
